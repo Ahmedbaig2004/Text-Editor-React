@@ -2,7 +2,7 @@ import './App.css';
 import About from './Components/About';
 import Navbar from './Components/Navbar';
 import TextForm from './Components/TextForm'
-import Alert from './Components/Alert'
+import Alert from './Components/alert';
 import React, { useState } from 'react';
 import {
   createBrowserRouter,
@@ -70,6 +70,16 @@ function App() {
        </>
       
     },
+    {
+      path: "/Text-Editor-React",
+      element: <>
+        <Navbar home="homo" features="future" mode={mode} color={color} toggleMode={toggleMode} /> 
+        <Alert alert={alert} />
+        <TextForm mode={mode} showAlert={showAlert}/> {/* Or your specific editor component */}
+      </>
+    },{
+    basename: "/Text-Editor-React"
+    }
   ]);
   
 

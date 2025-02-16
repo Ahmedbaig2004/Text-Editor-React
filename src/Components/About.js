@@ -1,5 +1,5 @@
-import React,{useState} from 'react'
-import PropTypes from 'prop-types'
+import React from 'react'
+
 
 
 
@@ -7,7 +7,7 @@ export default function About(props) {
  
    let mystyle={
      color: ['dark', 'purple'].includes(props.mode) ? 'white' : 'black',
-     backgroundColor:props.mode==='dark'?'#052c65':props.mode=='light'?'white':props.mode=='pink'?'pink':'purple',
+     backgroundColor:props.mode==='dark'?'#052c65':props.mode==='light'?'white':props.mode==='pink'?'pink':'purple',
     border:'1px solid'
      
    
