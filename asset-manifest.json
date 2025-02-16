@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/TextEditorReact/static/css/main.f855e6bc.css",
-    "main.js": "/TextEditorReact/static/js/main.8218bc9d.js",
-    "static/js/453.ed3810f9.chunk.js": "/TextEditorReact/static/js/453.ed3810f9.chunk.js",
-    "index.html": "/TextEditorReact/index.html",
-    "main.f855e6bc.css.map": "/TextEditorReact/static/css/main.f855e6bc.css.map",
-    "main.8218bc9d.js.map": "/TextEditorReact/static/js/main.8218bc9d.js.map",
-    "453.ed3810f9.chunk.js.map": "/TextEditorReact/static/js/453.ed3810f9.chunk.js.map"
+    "main.css": "/Text-Editor-React/static/css/main.f855e6bc.css",
+    "main.js": "/Text-Editor-React/static/js/main.e21fbdcb.js",
+    "static/js/453.ed3810f9.chunk.js": "/Text-Editor-React/static/js/453.ed3810f9.chunk.js",
+    "index.html": "/Text-Editor-React/index.html",
+    "main.f855e6bc.css.map": "/Text-Editor-React/static/css/main.f855e6bc.css.map",
+    "main.e21fbdcb.js.map": "/Text-Editor-React/static/js/main.e21fbdcb.js.map",
+    "453.ed3810f9.chunk.js.map": "/Text-Editor-React/static/js/453.ed3810f9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.8218bc9d.js"
+    "static/js/main.e21fbdcb.js"
   ]
 }
